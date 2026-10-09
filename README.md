@@ -10,6 +10,8 @@ ONNX model files for [SERP to Prompt Writer](https://github.com/aivrar/serp-to-p
 
 SERP to Prompt Writer downloads this file automatically from **Settings > Data & Tools**, so most users never need to fetch it by hand.
 
+The same model is also on Hugging Face: [aivrar-code/distilbart-mnli-12-3-onnx](https://huggingface.co/aivrar-code/distilbart-mnli-12-3-onnx).
+
 ## License
 
 The files written for this repository (README, scripts, docs) are released under the [MIT License](LICENSE).
